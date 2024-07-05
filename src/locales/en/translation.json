@@ -1,0 +1,10 @@
+{
+    "billing":"Billing details",
+    "name":"Full Name",
+    "email":"Enter your Email :",
+    "number":"Enter your Number :",
+    "amount":"Amount you want to pay :",
+    "currency":"Select Currency ",
+    "card":"Card details :",
+    "pay":"Pay"
+}
